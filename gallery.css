@@ -1,0 +1,31 @@
+.c{
+    background-color: black;
+    height: 455px;
+    border: solid white 9px;
+    width: 18%;
+    float: left;
+    color: white;
+    padding: 9px;
+}
+img{
+    width: 100%;
+    height: 200px;
+}
+
+h2,h1{
+ text-align: center;
+}
+
+p{
+    text-align: justify;
+}
+
+button{
+    width: 30%;
+    height: 30px;
+    border-radius: 20px;
+    background-color: yellow;
+}
+.bt{
+    text-align: center;
+}
